@@ -4,5 +4,11 @@
         <App>Microsoft.MicrosoftSolitaireCollection</App>
         <App>Microsoft.MSPaint</App>
         <App>Microosft.XboxApp</App>
+        <App>Microsoft.SkypeApp</App>       
+        <App>Microsoft.Xbox.TCUI</App>                           
+        <App>Microsoft.XboxGameOverlay</App>
+        <App>Microsoft.XboxGamingOverlay</App>                    
+        <App>Microsoft.XboxIdentityProvider</App>
+        <App>Microsoft.XboxSpeechToTextOverlay</App>
     </Apps>
 </AppsList>
