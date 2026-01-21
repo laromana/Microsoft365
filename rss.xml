@@ -4,7 +4,13 @@
     <title>NordLayer</title>
     <link>https://nordlayer.com/download/windows</link>
     <description>New releases of NordLayer msi installer for windows</description>
-    <pubDate>Tue, 20 Jan 2026 07:48:39 GMT</pubDate>
+    <pubDate>Tue, 21 Jan 2026 07:48:39 GMT</pubDate>
+     <item>
+      <title>3.7.1</title>
+      <description>3.7.1</description>
+      <link>https://downloads.nordlayer.com/win/releases/NordLayerSetup_v3.7.1.msi</link>
+      <pubDate>Tue, 21 Jan 2026 07:48:39 GMT</pubDate>
+    </item>
     <item>
       <title>3.7.0</title>
       <description>3.7.0</description>
@@ -54,4 +60,5 @@
       <pubDate>Wed, 05 Feb 2025 13:55:15 GMT</pubDate>
     </item>
   </channel>
+
 </rss>
